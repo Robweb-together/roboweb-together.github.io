@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>胡正涛 | 上海机器人研究所</title>
+    <link>https://robweb-together.github.io/author/%E8%83%A1%E6%AD%A3%E6%B6%9B/</link>
+      <atom:link href="https://robweb-together.github.io/author/%E8%83%A1%E6%AD%A3%E6%B6%9B/index.xml" rel="self" type="application/rss+xml" />
+    <description>胡正涛</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2018-2023 SRI-Lab</copyright><lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://robweb-together.github.io/author/%E8%83%A1%E6%AD%A3%E6%B6%9B/avatar_hu3beea8551e1fc12956af7f2156ce087d_5873_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>胡正涛</title>
+      <link>https://robweb-together.github.io/author/%E8%83%A1%E6%AD%A3%E6%B6%9B/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Exciting Trajectories for Identifying Dynamic Parameters of Serial Robots</title>
+      <link>https://robweb-together.github.io/publication/luo2023optimal/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://robweb-together.github.io/publication/luo2023optimal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
