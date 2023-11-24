@@ -5,12 +5,21 @@
     <link>https://robweb-together.github.io/post/</link>
       <atom:link href="https://robweb-together.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>最新动态</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2018-2023 SRI-Lab</copyright><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2018-2023 SRI-Lab</copyright><lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://robweb-together.github.io/media/icon_hue37ceb3013b83a7f1dd4cf5f791eeafe_12613_512x512_fill_lanczos_center_3.png</url>
       <title>最新动态</title>
       <link>https://robweb-together.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>实地参观ABB超级工厂</title>
+      <link>https://robweb-together.github.io/post/23-11-24-visit-du-hu/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://robweb-together.github.io/post/23-11-24-visit-du-hu/</guid>
+      <description>&lt;p&gt;参观ABB超级工厂&lt;/p&gt;
+&lt;p&gt;杜亮老师、胡正涛老师和陈晨同学、黎雪婷同学参观ABB机器人超级工厂，实地观察项目部分设备，与合作人员共同商讨科研项目细节。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>实验室科研成果获上海市科技进步二等奖</title>
