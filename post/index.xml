@@ -5,12 +5,21 @@
     <link>https://robweb-together.github.io/post/</link>
       <atom:link href="https://robweb-together.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>最新动态</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2018-2023 SRI-Lab</copyright><lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2018-2023 SRI-Lab</copyright><lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://robweb-together.github.io/media/icon_hue37ceb3013b83a7f1dd4cf5f791eeafe_12613_512x512_fill_lanczos_center_3.png</url>
       <title>最新动态</title>
       <link>https://robweb-together.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>ROBIO 2023</title>
+      <link>https://robweb-together.github.io/post/23-12-19-conf-robio2023/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://robweb-together.github.io/post/23-12-19-conf-robio2023/</guid>
+      <description>&lt;p&gt;Robio 2023 在泰国苏梅岛举办&lt;/p&gt;
+&lt;p&gt;Robio 2023 学术交流会议在泰国苏梅岛圆满举办，实验室多位学生与老师一同参加，并作为大会志愿者顺利完成大会各项流程。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>实地参观ABB超级工厂</title>
@@ -46,7 +55,7 @@
 &lt;li&gt;Notification of acceptance: Oct. 01, 2023&lt;/li&gt;
 &lt;li&gt;Submission of final papers and advance registration: Oct. 15, 2023&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.robio2023.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.robio2023.org&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://www.robio2023.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.robio2023.org&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
