@@ -5,12 +5,21 @@
     <link>https://robweb-together.github.io/post/</link>
       <atom:link href="https://robweb-together.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>最新动态</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2018-2024 SRI-Lab</copyright><lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2018-2024 SRI-Lab</copyright><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://robweb-together.github.io/media/icon_hue37ceb3013b83a7f1dd4cf5f791eeafe_12613_512x512_fill_lanczos_center_3.png</url>
       <title>最新动态</title>
       <link>https://robweb-together.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>博士生章弘凯发表论文</title>
+      <link>https://robweb-together.github.io/post/24-2-28-paper-zhang/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://robweb-together.github.io/post/24-2-28-paper-zhang/</guid>
+      <description>&lt;p&gt;博士生章弘凯在《IEEE Robotics and Automation Letters》期刊发表论文《LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments》&lt;/p&gt;
+&lt;p&gt;博士生章弘凯在《IEEE Robotics and Automation Letters》期刊发表论文，题目为《LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments》。文章提出了一种创新的、紧密耦合的激光雷达-视觉-惯性里程计与地图方法，称为LVIO-Fusion，可在几何退化以及纹理缺失场景实现稳健而精确的定位与建图。LVIO-Fusion将LIO子系统的点云地图直接投影到图像中以构建光流匹配，在更深层次上耦合激光雷达和相机测量。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ROBIO 2023</title>
