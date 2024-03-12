@@ -5,12 +5,20 @@
     <link>https://robweb-together.github.io/author/%E9%B2%8D%E6%99%9F/</link>
       <atom:link href="https://robweb-together.github.io/author/%E9%B2%8D%E6%99%9F/index.xml" rel="self" type="application/rss+xml" />
     <description>鲍晟</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2018-2023 SRI-Lab</copyright><lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2018-2024 SRI-Lab</copyright><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://robweb-together.github.io/author/%E9%B2%8D%E6%99%9F/avatar_hub7839f1bdfdabf2b1811b14a8479d283_139467_270x270_fill_q75_lanczos_center.jpg</url>
       <title>鲍晟</title>
       <link>https://robweb-together.github.io/author/%E9%B2%8D%E6%99%9F/</link>
     </image>
+    
+    <item>
+      <title>LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments</title>
+      <link>https://robweb-together.github.io/publication/zhang2024lvio-fusion/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://robweb-together.github.io/publication/zhang2024lvio-fusion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Design of a Differential Modular Joint-based Nursing Manipulator and its Digital Twin System</title>
