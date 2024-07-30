@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>实验室机器视觉方向研究成果在RAL在线发表</title>
+      <link>https://robweb-together.github.io/post/24-2-28-publish-zhangbo/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://robweb-together.github.io/post/24-2-28-publish-zhangbo/</guid>
+      <description>&lt;p&gt;《LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments&lt;/p&gt;
+&lt;p&gt;博士生章弘凯在《IEEE Robotics and Automation Letters》期刊发表论文，题目为《LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments》。文章提出了一种创新的、紧密耦合的激光雷达-视觉-惯性里程计与地图方法，称为LVIO-Fusion，可在几何退化以及纹理缺失场景实现稳健而精确的定位与建图。LVIO-Fusion将LIO子系统的点云地图直接投影到图像中以构建光流匹配，在更深层次上耦合激光雷达和相机测量。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ROBIO 2023</title>
       <link>https://robweb-together.github.io/post/23-12-19-conf-robio2023/</link>
       <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
@@ -874,15 +883,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://robweb-together.github.io/member/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>实验室机器视觉方向研究成果在RAL在线发表</title>
-      <link>https://robweb-together.github.io/post/24-2-28-publish-zhangbo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robweb-together.github.io/post/24-2-28-publish-zhangbo/</guid>
-      <description>&lt;p&gt;《LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments&lt;/p&gt;
-&lt;p&gt;博士生章弘凯在《IEEE Robotics and Automation Letters》期刊发表论文，题目为《LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments》。文章提出了一种创新的、紧密耦合的激光雷达-视觉-惯性里程计与地图方法，称为LVIO-Fusion，可在几何退化以及纹理缺失场景实现稳健而精确的定位与建图。LVIO-Fusion将LIO子系统的点云地图直接投影到图像中以构建光流匹配，在更深层次上耦合激光雷达和相机测量。&lt;/p&gt;</description>
     </item>
     
   </channel>
